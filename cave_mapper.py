@@ -3,7 +3,7 @@ from time import time, sleep
 
 GPIO.setmode(GPIO.BOARD)
 
-# name pins
+# pin names
 SRV_SWITCH_PIN = 7
 SRV_IN1_PIN = 11
 SRV_IN2_PIN = 12
